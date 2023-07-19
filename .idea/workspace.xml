@@ -45,9 +45,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Area">
-    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.Area" />
+  <component name="RunManager" selected="Application.NotasEMoedas">
+    <configuration name="Cedulas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.Cedulas" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Esfera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.Esfera" />
+    <configuration name="ConversaoDeTempo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.ConversaoDeTempo" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicaDeProgramacao.estruturaSequencial.Distancia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.estruturaSequencial.Distancia" />
+    <configuration name="IdadeEmDias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.IdadeEmDias" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicaDeProgramacao.estruturaSequencial.*" />
+          <option name="PATTERN" value="estruturaSequencial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicaDeProgramacao.estruturaSequencial.GastoDeCombustivel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.estruturaSequencial.GastoDeCombustivel" />
+    <configuration name="NotasEMoedas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.NotasEMoedas" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicaDeProgramacao.estruturaSequencial.*" />
+          <option name="PATTERN" value="estruturaSequencial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalarioComBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.SalarioComBonus" />
+    <configuration name="TempoDeUmEvento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.TempoDeUmEvento" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Area" />
-        <item itemvalue="Application.Esfera" />
-        <item itemvalue="Application.SalarioComBonus" />
-        <item itemvalue="Application.LogicaDeProgramacao.estruturaSequencial.GastoDeCombustivel" />
-        <item itemvalue="Application.LogicaDeProgramacao.estruturaSequencial.Distancia" />
+        <item itemvalue="Application.NotasEMoedas" />
+        <item itemvalue="Application.TempoDeUmEvento" />
+        <item itemvalue="Application.ConversaoDeTempo" />
+        <item itemvalue="Application.IdadeEmDias" />
+        <item itemvalue="Application.Cedulas" />
       </list>
     </recent_temporary>
   </component>
