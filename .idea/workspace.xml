@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ab459df-98ad-4633-b26b-dbc2fa71bdb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/SalarioComBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/SalarioComBonus.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +45,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Esfera">
-    <configuration name="Esfera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.Esfera" />
+  <component name="RunManager" selected="Application.Area">
+    <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.Area" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -60,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicaDeProgramacao.estruturaSequencial.Consumo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.estruturaSequencial.Consumo" />
+    <configuration name="Esfera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.Esfera" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LogicaDeProgramacao.estruturaSequencial.*" />
+          <option name="PATTERN" value="estruturaSequencial.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Area" />
         <item itemvalue="Application.Esfera" />
         <item itemvalue="Application.SalarioComBonus" />
         <item itemvalue="Application.LogicaDeProgramacao.estruturaSequencial.GastoDeCombustivel" />
         <item itemvalue="Application.LogicaDeProgramacao.estruturaSequencial.Distancia" />
-        <item itemvalue="Application.LogicaDeProgramacao.estruturaSequencial.Consumo" />
       </list>
     </recent_temporary>
   </component>
