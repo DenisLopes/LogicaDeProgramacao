@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ab459df-98ad-4633-b26b-dbc2fa71bdb6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/AreaDoCirculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/AreaDoCirculo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/CalculoSimples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/CalculoSimples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Consumo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Consumo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Diferenca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Diferenca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Distancia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Distancia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/ExtremamenteBasico.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/ExtremamenteBasico.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/GastoDeCombustivel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/GastoDeCombustivel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Media1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Media1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Media2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Media2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/MedidasDoTerreno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/MedidasDoTerreno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/ProdutoSimples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/ProdutoSimples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/SaidaDeDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/SaidaDeDados.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Salario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/Salario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/SomaSimples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/SomaSimples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/SalarioComBonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/logicaDeProgramacao/estruturaSequencial/SalarioComBonus.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +46,20 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SalarioComBonus">
+  <component name="RunManager" selected="Application.Esfera">
+    <configuration name="Esfera" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.Esfera" />
+      <module name="logicaDeProgramacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturaSequencial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LogicaDeProgramacao.estruturaSequencial.Consumo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.estruturaSequencial.Consumo" />
       <module name="logicaDeProgramacao" />
@@ -101,13 +99,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Salario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicaDeProgramacao.estruturaSequencial.Salario" />
-      <module name="logicaDeProgramacao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SalarioComBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturaSequencial.SalarioComBonus" />
       <module name="logicaDeProgramacao" />
@@ -123,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Esfera" />
         <item itemvalue="Application.SalarioComBonus" />
         <item itemvalue="Application.LogicaDeProgramacao.estruturaSequencial.GastoDeCombustivel" />
         <item itemvalue="Application.LogicaDeProgramacao.estruturaSequencial.Distancia" />
