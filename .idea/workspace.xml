@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ab459df-98ad-4633-b26b-dbc2fa71bdb6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,30 +29,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/LogicaDeProgramacao&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/LogicaDeProgramacao",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NotasEMoedas">
-    <configuration name="Cedulas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.Cedulas" />
+  <component name="RunManager" selected="Application.Intervalo">
+    <configuration name="DiasDaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.DiasDaSemana" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaSequencial.*" />
+          <option name="PATTERN" value="estruturaCondicional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversaoDeTempo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.ConversaoDeTempo" />
+    <configuration name="Intervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.Intervalo" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaSequencial.*" />
+          <option name="PATTERN" value="estruturaCondicional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdadeEmDias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.IdadeEmDias" />
+    <configuration name="Menor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.Menor" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaSequencial.*" />
+          <option name="PATTERN" value="estruturaCondicional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotasEMoedas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.NotasEMoedas" />
+    <configuration name="MinutosExcedidos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.MinutosExcedidos" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaSequencial.*" />
+          <option name="PATTERN" value="estruturaCondicional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempoDeUmEvento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaSequencial.TempoDeUmEvento" />
+    <configuration name="TesteDeSelecao1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.TesteDeSelecao1" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaSequencial.*" />
+          <option name="PATTERN" value="estruturaCondicional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NotasEMoedas" />
-        <item itemvalue="Application.TempoDeUmEvento" />
-        <item itemvalue="Application.ConversaoDeTempo" />
-        <item itemvalue="Application.IdadeEmDias" />
-        <item itemvalue="Application.Cedulas" />
+        <item itemvalue="Application.Intervalo" />
+        <item itemvalue="Application.TesteDeSelecao1" />
+        <item itemvalue="Application.DiasDaSemana" />
+        <item itemvalue="Application.MinutosExcedidos" />
+        <item itemvalue="Application.Menor" />
       </list>
     </recent_temporary>
   </component>
