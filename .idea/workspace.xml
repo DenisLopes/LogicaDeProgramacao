@@ -48,13 +48,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ImpostoDeRenda">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.Animal" />
+  <component name="RunManager" selected="Application.Idades">
+    <configuration name="DerbiPaulista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.DerbiPaulista" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaCondicional.*" />
+          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AumentoDeSalario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.AumentoDeSalario" />
+    <configuration name="Idades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.Idades" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaCondicional.*" />
+          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImpostoDeRenda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.ImpostoDeRenda" />
+    <configuration name="ValidaçãoDeNota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.ValidaçãoDeNota" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaCondicional.*" />
+          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempoDeJogo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.TempoDeJogo" />
+    <configuration name="VariasNotasComValidacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.VariasNotasComValidacao" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaCondicional.*" />
+          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempoDeJogoComMinutos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturaCondicional.TempoDeJogoComMinutos" />
+    <configuration name="tipoDeCombustivel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.tipoDeCombustivel" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturaCondicional.*" />
+          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImpostoDeRenda" />
-        <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.AumentoDeSalario" />
-        <item itemvalue="Application.TempoDeJogoComMinutos" />
-        <item itemvalue="Application.TempoDeJogo" />
+        <item itemvalue="Application.Idades" />
+        <item itemvalue="Application.DerbiPaulista" />
+        <item itemvalue="Application.VariasNotasComValidacao" />
+        <item itemvalue="Application.tipoDeCombustivel" />
+        <item itemvalue="Application.ValidaçãoDeNota" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +148,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EstruturasDeRepeticao/MediaIdade.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
