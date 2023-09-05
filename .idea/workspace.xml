@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6ab459df-98ad-4633-b26b-dbc2fa71bdb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstruturasDeRepeticao/DivisoresI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/DivisoresI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +49,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Idades">
-    <configuration name="DerbiPaulista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.DerbiPaulista" />
+  <component name="RunManager" selected="Application.SomaDeImparesConsecutivosIII">
+    <configuration name="DivisoresI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.DivisoresI" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Idades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.Idades" />
+    <configuration name="FatorialSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.FatorialSimples" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidaçãoDeNota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.ValidaçãoDeNota" />
+    <configuration name="SequenciaLogica2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.SequenciaLogica2" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariasNotasComValidacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.VariasNotasComValidacao" />
+    <configuration name="SequenciasCrescentes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.SequenciasCrescentes" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tipoDeCombustivel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.tipoDeCombustivel" />
+    <configuration name="SomaDeImparesConsecutivosIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.SomaDeImparesConsecutivosIII" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Idades" />
-        <item itemvalue="Application.DerbiPaulista" />
-        <item itemvalue="Application.VariasNotasComValidacao" />
-        <item itemvalue="Application.tipoDeCombustivel" />
-        <item itemvalue="Application.ValidaçãoDeNota" />
+        <item itemvalue="Application.SomaDeImparesConsecutivosIII" />
+        <item itemvalue="Application.DivisoresI" />
+        <item itemvalue="Application.FatorialSimples" />
+        <item itemvalue="Application.SequenciasCrescentes" />
+        <item itemvalue="Application.SequenciaLogica2" />
       </list>
     </recent_temporary>
   </component>
