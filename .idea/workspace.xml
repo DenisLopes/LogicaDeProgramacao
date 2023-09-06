@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ab459df-98ad-4633-b26b-dbc2fa71bdb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturasDeRepeticao/DivisoresI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturasDeRepeticao/DivisoresI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +48,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SomaDeImparesConsecutivosIII">
-    <configuration name="DivisoresI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.DivisoresI" />
+  <component name="RunManager" selected="Application.Vetor9">
+    <configuration name="Vetor3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.Vetor3" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="vetores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FatorialSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.FatorialSimples" />
+    <configuration name="Vetor4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.Vetor4" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="vetores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequenciaLogica2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.SequenciaLogica2" />
+    <configuration name="Vetor7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.Vetor7" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="vetores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequenciasCrescentes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.SequenciasCrescentes" />
+    <configuration name="Vetor8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.Vetor8" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="vetores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomaDeImparesConsecutivosIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EstruturasDeRepeticao.SomaDeImparesConsecutivosIII" />
+    <configuration name="Vetor9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vetores.Vetor9" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="vetores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SomaDeImparesConsecutivosIII" />
-        <item itemvalue="Application.DivisoresI" />
-        <item itemvalue="Application.FatorialSimples" />
-        <item itemvalue="Application.SequenciasCrescentes" />
-        <item itemvalue="Application.SequenciaLogica2" />
+        <item itemvalue="Application.Vetor9" />
+        <item itemvalue="Application.Vetor8" />
+        <item itemvalue="Application.Vetor7" />
+        <item itemvalue="Application.Vetor4" />
+        <item itemvalue="Application.Vetor3" />
       </list>
     </recent_temporary>
   </component>
