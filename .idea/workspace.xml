@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6ab459df-98ad-4633-b26b-dbc2fa71bdb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Matrizes/Matriz5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matrizes/Matriz5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,31 +31,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/LogicaDeProgramacao&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/LogicaDeProgramacao",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Vetor9">
-    <configuration name="Vetor3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetores.Vetor3" />
+  <component name="RunManager" selected="Application.Matriz7">
+    <configuration name="Matriz3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrizes.Matriz3" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vetores.*" />
+          <option name="PATTERN" value="Matrizes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vetor4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetores.Vetor4" />
+    <configuration name="Matriz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrizes.Matriz4" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vetores.*" />
+          <option name="PATTERN" value="Matrizes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vetor7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetores.Vetor7" />
+    <configuration name="Matriz5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrizes.Matriz5" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vetores.*" />
+          <option name="PATTERN" value="Matrizes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vetor8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetores.Vetor8" />
+    <configuration name="Matriz6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrizes.Matriz6" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vetores.*" />
+          <option name="PATTERN" value="Matrizes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vetor9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vetores.Vetor9" />
+    <configuration name="Matriz7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrizes.Matriz7" />
       <module name="logicaDeProgramacao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vetores.*" />
+          <option name="PATTERN" value="Matrizes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Vetor9" />
-        <item itemvalue="Application.Vetor8" />
-        <item itemvalue="Application.Vetor7" />
-        <item itemvalue="Application.Vetor4" />
-        <item itemvalue="Application.Vetor3" />
+        <item itemvalue="Application.Matriz7" />
+        <item itemvalue="Application.Matriz6" />
+        <item itemvalue="Application.Matriz5" />
+        <item itemvalue="Application.Matriz4" />
+        <item itemvalue="Application.Matriz3" />
       </list>
     </recent_temporary>
   </component>
